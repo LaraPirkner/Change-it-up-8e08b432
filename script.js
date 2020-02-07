@@ -1,0 +1,1 @@
+var text = document.querySelector("#title").innerHTML = document.title;
